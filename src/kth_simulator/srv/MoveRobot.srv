@@ -1,0 +1,4 @@
+uint32 robot
+trajectory_msgs/JointTrajectoryPoint pose
+---
+bool status

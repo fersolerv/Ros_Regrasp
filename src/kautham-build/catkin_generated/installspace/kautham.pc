@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: kautham
+Description: Description of kautham
+Version: 3.0.0
+Cflags: -I/usr/local/include
+Libs:  -lkautham
+Requires: roscpp trajectory_msgs std_msgs

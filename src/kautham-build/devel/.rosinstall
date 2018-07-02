@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fernando/catkin_ws/src/kautham-build/devel/setup.sh

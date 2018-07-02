@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/bitransfer.dir/bitransfer.o CMakeFiles/bitransfer.dir/rob.o  -o /home/fernando/catkin_ws/devel/lib/kautham/bitransfer -rdynamic /home/fernando/catkin_ws/devel/lib/libkautham.so.3.0.0 -lCoin -lboost_system -lboost_serialization -lboost_thread -lpthread -lpugixml -lassimp -larmadillo -lompl -lpthread -Wl,-rpath,/home/fernando/catkin_ws/devel/lib 
