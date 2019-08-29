@@ -1,10 +1,3 @@
-/*
- * Robot.cpp
- *
- *  Created on: 30/11/2011
- *      Author: andres
- */
-
 #include "Robot.h"
 
 using namespace std;
