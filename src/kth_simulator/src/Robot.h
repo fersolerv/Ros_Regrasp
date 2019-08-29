@@ -1,10 +1,3 @@
-/*
- * Robot.h
- *
- *  Created on: 30/11/2011
- *      Author: andres
- */
-
 #ifndef ROBOT_H_
 #define ROBOT_H_
 
